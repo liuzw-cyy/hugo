@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on KCP lab</title>
+    <link>https://kcplab.netlify.app/publication/</link>
+    <description>Recent content in Publications on KCP lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Wentao Lv, 2023 </copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 16:37:31 +0200</lastBuildDate><atom:link href="https://kcplab.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>https://kcplab.netlify.app/publication/learning/</link>
+      <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://kcplab.netlify.app/publication/learning/</guid>
+      <description>You can add information in $\LaTeX$ and Markdown here.</description>
+    </item>
+    
+  </channel>
+</rss>
