@@ -111,6 +111,11 @@ tag = "tags"
       weight = 1
 
   [[menu.main]]
+      name = "Research"
+      url = "/research"
+      weight = 2
+
+  [[menu.main]]
       name = "Publications"
       url = "/publication/"
       weight = 3
