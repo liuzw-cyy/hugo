@@ -1,18 +1,18 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "member1"
+id = "member10"
 interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
 name = "Member Member"
 portrait = "/header.jpg"
 short_bio = "My short bio. I am Member Member."
 short_name = ""
-title = "Member 1"
+title = "Member 10"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:liuzw1999@163.com"
 
 [[social]]
     icon = "twitter"
@@ -30,9 +30,14 @@ title = "Member 1"
     link = "//github.com/"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2004
+    course = "Bachelor in 本科专业"
+    institution = '本科学校'
+    year = 2001
+
+[[education]]
+    course = "Master in Computer Technology"
+    institution = 'Zhejiang Sci-Tech University'
+    year = 2024
 
 [[organizations]]
     name = "Harvard University"
